@@ -5,9 +5,9 @@ expenses = [int(line.strip()) for line in input]
 #Part 1
 def findPair(numList):
     for valueA in numList:
-        for valueB in numList:
-            if (valueA+valueB == 2020):
-                return valueA*valueB
+        complementaryNum = 2020 - valueA
+        if (complementaryNum in numList):
+            return valueA*complementaryNum
     return -1
 
 #Run Part 1
