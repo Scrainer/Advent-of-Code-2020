@@ -1,5 +1,5 @@
 #Test Area
-test = ["1-3 a: abcde","1-3 b: cdefg","2-9 c: ccccccccc"]
+#test = ["1-3 a: abcde","1-3 b: cdefg","2-9 c: ccccccccc"]
 #---------------------------------------------------------
 
 #Convert the passwords list into a iterable object
