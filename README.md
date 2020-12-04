@@ -17,8 +17,8 @@ I'm going to increase the difficulty for myself by trying to code in 3 different
 |---|:---:|:---:|
 | ✔ [Day 1: Report Repair](https://github.com/Scrainer/Advent-of-Code-2020/tree/main/Day%201)| 🌟 | 🌟 |
 | ✔ [Day 2: Password Philosophy](https://github.com/Scrainer/Advent-of-Code-2020/tree/main/Day%202)| 🌟 | 🌟 |
-| [Day 3: TBD]()| | |
-| [Day 4: TBD]()| | |
+| [Day 3: Toboggan Trajectory]()| | |
+| [Day 4: Passport Processing]()| | |
 | [Day 5: TBD]()| | |
 | [Day 6: TBD]()| | |
 | [Day 7: TBD]()| | |
