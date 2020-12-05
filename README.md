@@ -2,7 +2,7 @@
 My take on the [Advent of Code 2020](https://adventofcode.com/2020)
 
 ## What's different?
-I'm going to increase the difficulty for myself by trying to code in 3 different programming languages.
+I'm going to increase the difficulty for myself by trying to code in 3 different programming languages, though I'm a busy man™. If I don't got a lot of time, my main language will be Python and I'll try to keep up to date with the other two.
 
 - Python
 - Java
@@ -17,7 +17,7 @@ I'm going to increase the difficulty for myself by trying to code in 3 different
 |---|:---:|:---:|
 | ✔ [Day 1: Report Repair](https://github.com/Scrainer/Advent-of-Code-2020/tree/main/Day%201)| 🌟 | 🌟 |
 | ✔ [Day 2: Password Philosophy](https://github.com/Scrainer/Advent-of-Code-2020/tree/main/Day%202)| 🌟 | 🌟 |
-| [Day 3: Toboggan Trajectory](https://github.com/Scrainer/Advent-of-Code-2020/tree/main/Day%203)| | |
+| ✔ [Day 3: Toboggan Trajectory](https://github.com/Scrainer/Advent-of-Code-2020/tree/main/Day%203)| 🌟 | 🌟 |
 | [Day 4: Passport Processing](https://github.com/Scrainer/Advent-of-Code-2020/tree/main/Day%204)| | |
 | [Day 5: TBD]()| | |
 | [Day 6: TBD]()| | |
